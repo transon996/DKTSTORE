@@ -3,5 +3,5 @@
 	$hostname = "localhost";
 	$username = "root";
 	$password = "";
-	$database = "php22_project";
+	$database = "dkt_store";
  ?>
